@@ -1,1 +1,2 @@
 # CMP-280_Group1
+The purpose of this project is to complete the systems analysis and design for an application that would be available to download on a computer such as a desktop, laptop, or mobile phone. I feel like we'll all be able to learn a lot from it because of how long the whole process will be and because it won't involve programming at all, which is something I'm not used to in trying to come up with everything for an app.
